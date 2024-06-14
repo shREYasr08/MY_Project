@@ -1,0 +1,12 @@
+.navebar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.mini
+{
+    display:flex;
+    flex-direction: row;
+    gap: 30px;
+}
